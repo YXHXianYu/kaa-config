@@ -1,0 +1,33 @@
+{
+    "type": "produce_solution",
+    "id": "eade0f3c60374140b8703a26ad11dd28",
+    "name": "紫云清夏",
+    "description": "感性",
+    "data": {
+        "mode": "pro",
+        "idol": "i_card-skin-ssmk-3-000",
+        "memory_set": null,
+        "support_card_set": null,
+        "auto_set_memory": true,
+        "auto_set_support_card": true,
+        "use_pt_boost": true,
+        "use_note_boost": true,
+        "follow_producer": true,
+        "self_study_lesson": "dance",
+        "prefer_lesson_ap": true,
+        "actions_order": [
+            "recommended",
+            "dance",
+            "visual",
+            "vocal",
+            "study",
+            "outing",
+            "rest",
+            "allowance",
+            "consult"
+        ],
+        "recommend_card_detection_mode": "strict",
+        "use_ap_drink": true,
+        "skip_commu": true
+    }
+}

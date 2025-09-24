@@ -1,0 +1,33 @@
+{
+    "type": "produce_solution",
+    "id": "88f7b991c50243559d68086131a17ae5",
+    "name": "hiro",
+    "description": "",
+    "data": {
+        "mode": "pro",
+        "idol": "i_card-skin-shro-3-000",
+        "memory_set": null,
+        "support_card_set": null,
+        "auto_set_memory": true,
+        "auto_set_support_card": true,
+        "use_pt_boost": false,
+        "use_note_boost": false,
+        "follow_producer": false,
+        "self_study_lesson": "vocal",
+        "prefer_lesson_ap": true,
+        "actions_order": [
+            "recommended",
+            "vocal",
+            "dance",
+            "visual",
+            "outing",
+            "study",
+            "allowance",
+            "rest",
+            "consult"
+        ],
+        "recommend_card_detection_mode": "strict",
+        "use_ap_drink": true,
+        "skip_commu": true
+    }
+}

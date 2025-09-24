@@ -1,0 +1,33 @@
+{
+    "type": "produce_solution",
+    "id": "26433ab499da41ea958ecdb34cfe50b2",
+    "name": "妹妹 - 盾",
+    "description": "",
+    "data": {
+        "mode": "pro",
+        "idol": "i_card-skin-hume-3-000",
+        "memory_set": null,
+        "support_card_set": null,
+        "auto_set_memory": true,
+        "auto_set_support_card": true,
+        "use_pt_boost": false,
+        "use_note_boost": false,
+        "follow_producer": true,
+        "self_study_lesson": "dance",
+        "prefer_lesson_ap": false,
+        "actions_order": [
+            "rest",
+            "recommended",
+            "visual",
+            "vocal",
+            "dance",
+            "outing",
+            "study",
+            "allowance",
+            "consult"
+        ],
+        "recommend_card_detection_mode": "strict",
+        "use_ap_drink": true,
+        "skip_commu": true
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "version": 6,
+    "user_configs": [
+        {
+            "name": "默认配置",
+            "id": "8eb503b546334df5a95f4818120d7c36",
+            "category": "default",
+            "description": "默认配置",
+            "backend": {
+                "type": "dmm",
+                "instance_id": null,
+                "adb_ip": "127.0.0.1",
+                "adb_port": 5555,
+                "adb_emulator_name": "emulator-5554",
+                "screenshot_impl": "windows",
+                "check_emulator": false,
+                "emulator_path": "E:\\Programs\\leidian\\LDPlayerVK\\dnplayer.exe",
+                "emulator_args": "",
+                "windows_window_title": "gakumas",
+                "windows_ahk_path": null,
+                "mumu_background_mode": false,
+                "target_screenshot_interval": 0.5
+            },
+            "keep_screenshots": false,
+            "options": {
+                "purchase": {
+                    "enabled": true,
+                    "money_enabled": true,
+                    "money_items": [
+                        14,
+                        15,
+                        16,
+                        17,
+                        18,
+                        19,
+                        20,
+                        21,
+                        22
+                    ],
+                    "money_refresh": true,
+                    "ap_enabled": true,
+                    "ap_items": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ]
+                },
+                "activity_funds": {
+                    "enabled": true
+                },
+                "presents": {
+                    "enabled": true
+                },
+                "assignment": {
+                    "enabled": true,
+                    "mini_live_reassign_enabled": true,
+                    "mini_live_duration": 12,
+                    "online_live_reassign_enabled": true,
+                    "online_live_duration": 12
+                },
+                "contest": {
+                    "enabled": true,
+                    "select_which_contestant": 3,
+                    "when_no_set": "auto_set_silent"
+                },
+                "produce": {
+                    "enabled": false,
+                    "selected_solution_id": "dc2917cb0ba540aeb4dc5fe1dab28507",
+                    "produce_count": 98,
+                    "produce_timeout_cd": 30
+                },
+                "mission_reward": {
+                    "enabled": true
+                },
+                "club_reward": {
+                    "enabled": true,
+                    "selected_note": 11
+                },
+                "upgrade_support_card": {
+                    "enabled": true
+                },
+                "capsule_toys": {
+                    "enabled": true,
+                    "friend_capsule_toys_count": 1,
+                    "sense_capsule_toys_count": 1,
+                    "logic_capsule_toys_count": 1,
+                    "anomaly_capsule_toys_count": 1
+                },
+                "trace": {
+                    "recommend_card_detection": true
+                },
+                "start_game": {
+                    "enabled": true,
+                    "start_through_kuyo": false,
+                    "game_package_name": "com.bandainamcoent.idolmaster_gakuen",
+                    "kuyo_package_name": "org.kuyo.game",
+                    "disable_gakumas_localify": true,
+                    "dmm_game_path": "D:\\Games\\DMMGames\\gakumas\\gakumas.exe"
+                },
+                "end_game": {
+                    "exit_kaa": false,
+                    "kill_game": false,
+                    "kill_dmm": false,
+                    "kill_emulator": false,
+                    "shutdown": false,
+                    "hibernate": false,
+                    "restore_gakumas_localify": true
+                },
+                "misc": {
+                    "check_update": "startup",
+                    "auto_install_update": true,
+                    "expose_to_lan": false,
+                    "update_channel": "release"
+                },
+                "idle": {
+                    "enabled": false,
+                    "idle_seconds": 30,
+                    "minimize_on_pause": true
+                }
+            }
+        }
+    ]
+}

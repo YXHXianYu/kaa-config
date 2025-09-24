@@ -1,0 +1,33 @@
+{
+    "type": "produce_solution",
+    "id": "38c7a5338e4c4c49a775c93c184560c5",
+    "name": "默认方案",
+    "description": "从旧配置迁移的默认培育方案",
+    "data": {
+        "mode": "pro",
+        "idol": "i_card-skin-fktn-3-000",
+        "memory_set": 10,
+        "support_card_set": null,
+        "auto_set_memory": true,
+        "auto_set_support_card": true,
+        "use_pt_boost": false,
+        "use_note_boost": false,
+        "follow_producer": true,
+        "self_study_lesson": "visual",
+        "prefer_lesson_ap": true,
+        "actions_order": [
+            "recommended",
+            "visual",
+            "dance",
+            "vocal",
+            "outing",
+            "study",
+            "allowance",
+            "rest",
+            "consult"
+        ],
+        "recommend_card_detection_mode": "strict",
+        "use_ap_drink": true,
+        "skip_commu": true
+    }
+}

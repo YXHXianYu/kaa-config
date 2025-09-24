@@ -1,0 +1,33 @@
+{
+    "type": "produce_solution",
+    "id": "9237d4c4d34f4528abb94b681bb114e2",
+    "name": "fes mao",
+    "description": "温存",
+    "data": {
+        "mode": "pro",
+        "idol": "i_card-skin-amao-3-007",
+        "memory_set": null,
+        "support_card_set": null,
+        "auto_set_memory": true,
+        "auto_set_support_card": true,
+        "use_pt_boost": false,
+        "use_note_boost": false,
+        "follow_producer": true,
+        "self_study_lesson": "dance",
+        "prefer_lesson_ap": true,
+        "actions_order": [
+            "recommended",
+            "visual",
+            "vocal",
+            "dance",
+            "allowance",
+            "outing",
+            "study",
+            "consult",
+            "rest"
+        ],
+        "recommend_card_detection_mode": "normal",
+        "use_ap_drink": true,
+        "skip_commu": true
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "type": "produce_solution",
+    "id": "9a463563b35a4d80b31ca5931e45d6a4",
+    "name": "ktn",
+    "description": "盾",
+    "data": {
+        "mode": "regular",
+        "idol": "i_card-skin-fktn-3-001",
+        "memory_set": null,
+        "support_card_set": null,
+        "auto_set_memory": true,
+        "auto_set_support_card": true,
+        "use_pt_boost": false,
+        "use_note_boost": false,
+        "follow_producer": true,
+        "self_study_lesson": "dance",
+        "prefer_lesson_ap": true,
+        "actions_order": [
+            "recommended",
+            "dance",
+            "visual",
+            "vocal",
+            "outing",
+            "study",
+            "allowance",
+            "rest",
+            "consult"
+        ],
+        "recommend_card_detection_mode": "strict",
+        "use_ap_drink": true,
+        "skip_commu": true
+    }
+}
