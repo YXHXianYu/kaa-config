@@ -1,11 +1,11 @@
 {
     "type": "produce_solution",
-    "id": "e7459c4b350a4e8494563787a59ea272",
-    "name": "紫云清夏",
-    "description": "好印象",
+    "id": "129c89f584cc44ea84c2891be408c0d8",
+    "name": "fes千奈",
+    "description": "干劲",
     "data": {
         "mode": "master",
-        "idol": "i_card-skin-ssmk-3-014",
+        "idol": "i_card-skin-kcna-3-007",
         "memory_set": 2,
         "support_card_set": null,
         "auto_set_memory": false,
@@ -22,8 +22,8 @@
             "vocal",
             "study",
             "outing",
-            "allowance",
             "rest",
+            "allowance",
             "consult"
         ],
         "recommend_card_detection_mode": "normal",

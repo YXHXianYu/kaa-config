@@ -4,7 +4,7 @@
     "name": "fes会长",
     "description": "感性",
     "data": {
-        "mode": "pro",
+        "mode": "master",
         "idol": "i_card-skin-jsna-3-002",
         "memory_set": null,
         "support_card_set": null,

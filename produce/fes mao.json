@@ -4,7 +4,7 @@
     "name": "fes mao",
     "description": "温存",
     "data": {
-        "mode": "pro",
+        "mode": "master",
         "idol": "i_card-skin-amao-3-007",
         "memory_set": null,
         "support_card_set": null,

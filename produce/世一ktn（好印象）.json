@@ -1,13 +1,13 @@
 {
     "type": "produce_solution",
-    "id": "e7459c4b350a4e8494563787a59ea272",
-    "name": "紫云清夏",
-    "description": "好印象",
+    "id": "48572e827c884367aca3297d4a849f63",
+    "name": "世一ktn（好印象）",
+    "description": "",
     "data": {
         "mode": "master",
-        "idol": "i_card-skin-ssmk-3-014",
-        "memory_set": 2,
-        "support_card_set": null,
+        "idol": "i_card-skin-fktn-3-000",
+        "memory_set": 1,
+        "support_card_set": 1,
         "auto_set_memory": false,
         "auto_set_support_card": true,
         "use_pt_boost": false,
@@ -26,7 +26,7 @@
             "rest",
             "consult"
         ],
-        "recommend_card_detection_mode": "normal",
+        "recommend_card_detection_mode": "strict",
         "use_ap_drink": true,
         "skip_commu": true
     }
