@@ -1,17 +1,17 @@
 {
     "type": "produce_solution",
-    "id": "5c4215f333fd4ebeafd9fa00e0db9487",
-    "name": "fes会长",
-    "description": "感性",
+    "id": "1a2a4d8578064d118ad0e2aefb90d98c",
+    "name": "【Campus mode!!】有村麻央（非凡）",
+    "description": "pro",
     "data": {
         "mode": "pro",
-        "idol": "i_card-skin-jsna-3-002",
+        "idol": "i_card-skin-amao-3-007",
         "memory_set": null,
         "support_card_set": null,
         "auto_set_memory": true,
         "auto_set_support_card": true,
-        "use_pt_boost": true,
-        "use_note_boost": true,
+        "use_pt_boost": false,
+        "use_note_boost": false,
         "follow_producer": true,
         "self_study_lesson": "visual",
         "prefer_lesson_ap": true,
@@ -20,13 +20,13 @@
             "visual",
             "vocal",
             "dance",
-            "study",
-            "outing",
             "allowance",
-            "rest",
-            "consult"
+            "outing",
+            "study",
+            "consult",
+            "rest"
         ],
-        "recommend_card_detection_mode": "strict",
+        "recommend_card_detection_mode": "normal",
         "use_ap_drink": true,
         "skip_commu": true
     }
