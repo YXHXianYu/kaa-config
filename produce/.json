@@ -1,0 +1,23 @@
+{
+    "type": "produce_solution",
+    "id": "1294985fa2fa49f496a19fb0dc70089c",
+    "name": "",
+    "description": "",
+    "data": {
+        "mode": "regular",
+        "idol": "i_card-skin-amao-1-000",
+        "memory_set": 1,
+        "support_card_set": 1,
+        "auto_set_memory": false,
+        "auto_set_support_card": false,
+        "use_pt_boost": false,
+        "use_note_boost": false,
+        "follow_producer": false,
+        "self_study_lesson": "dance",
+        "prefer_lesson_ap": false,
+        "actions_order": [],
+        "recommend_card_detection_mode": "normal",
+        "use_ap_drink": true,
+        "skip_commu": false
+    }
+}

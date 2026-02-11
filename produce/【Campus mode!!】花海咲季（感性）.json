@@ -1,0 +1,33 @@
+{
+    "type": "produce_solution",
+    "id": "fadde4a23cfa4e8080e2faa180c5ae48",
+    "name": "【Campus mode!!】花海咲季（感性）",
+    "description": "master",
+    "data": {
+        "mode": "master",
+        "idol": "i_card-skin-hski-3-008",
+        "memory_set": null,
+        "support_card_set": null,
+        "auto_set_memory": true,
+        "auto_set_support_card": true,
+        "use_pt_boost": true,
+        "use_note_boost": true,
+        "follow_producer": true,
+        "self_study_lesson": "visual",
+        "prefer_lesson_ap": true,
+        "actions_order": [
+            "recommended",
+            "visual",
+            "vocal",
+            "dance",
+            "allowance",
+            "outing",
+            "study",
+            "consult",
+            "rest"
+        ],
+        "recommend_card_detection_mode": "normal",
+        "use_ap_drink": true,
+        "skip_commu": false
+    }
+}
