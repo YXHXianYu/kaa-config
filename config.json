@@ -24,64 +24,65 @@
             "keep_screenshots": false,
             "options": {
                 "purchase": {
-                    "enabled": true,
+                    "enabled": false,
                     "money_enabled": true,
                     "money_items": [
-                        14,
                         15,
                         16,
-                        17,
                         18,
-                        19,
                         20,
-                        21,
-                        22
+                        22,
+                        17,
+                        19
                     ],
-                    "money_refresh": true,
+                    "money_refresh": false,
                     "ap_enabled": true,
                     "ap_items": [
                         0,
                         1,
                         2,
                         3
-                    ]
+                    ],
+                    "weekly_enabled": true
                 },
                 "activity_funds": {
-                    "enabled": true
+                    "enabled": false
                 },
                 "presents": {
-                    "enabled": true
+                    "enabled": false
                 },
                 "assignment": {
-                    "enabled": true,
+                    "enabled": false,
                     "mini_live_reassign_enabled": true,
                     "mini_live_duration": 12,
                     "online_live_reassign_enabled": true,
                     "online_live_duration": 12
                 },
                 "contest": {
-                    "enabled": true,
+                    "enabled": false,
                     "select_which_contestant": 3,
                     "when_no_set": "auto_set_silent"
                 },
                 "produce": {
-                    "enabled": false,
-                    "selected_solution_id": "dc2917cb0ba540aeb4dc5fe1dab28507",
+                    "enabled": true,
+                    "selected_solution_id": "93b861b96f51430b8c29cbb819168eab",
                     "produce_count": 98,
-                    "produce_timeout_cd": 30
+                    "produce_timeout_cd": 30,
+                    "interrupt_timeout": 90,
+                    "enable_fever_month": "on"
                 },
                 "mission_reward": {
-                    "enabled": true
+                    "enabled": false
                 },
                 "club_reward": {
-                    "enabled": true,
+                    "enabled": false,
                     "selected_note": 11
                 },
                 "upgrade_support_card": {
-                    "enabled": true
+                    "enabled": false
                 },
                 "capsule_toys": {
-                    "enabled": true,
+                    "enabled": false,
                     "friend_capsule_toys_count": 1,
                     "sense_capsule_toys_count": 1,
                     "logic_capsule_toys_count": 1,
@@ -96,7 +97,8 @@
                     "game_package_name": "com.bandainamcoent.idolmaster_gakuen",
                     "kuyo_package_name": "org.kuyo.game",
                     "disable_gakumas_localify": true,
-                    "dmm_game_path": "D:\\Games\\DMMGames\\gakumas\\gakumas.exe"
+                    "dmm_game_path": "D:\\Games\\DMMGames\\gakumas\\gakumas.exe",
+                    "dmm_bypass": true
                 },
                 "end_game": {
                     "exit_kaa": false,
@@ -111,7 +113,8 @@
                     "check_update": "startup",
                     "auto_install_update": true,
                     "expose_to_lan": false,
-                    "update_channel": "release"
+                    "update_channel": "release",
+                    "log_level": "debug"
                 },
                 "idle": {
                     "enabled": false,
