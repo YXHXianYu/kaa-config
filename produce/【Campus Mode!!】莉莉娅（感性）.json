@@ -1,8 +1,8 @@
 {
     "type": "produce_solution",
     "id": "30cf3524565944ab89e265388569e4b4",
-    "name": "莉莉娅 fes",
-    "description": "感性",
+    "name": "【Campus Mode!!】莉莉娅（感性）",
+    "description": "master",
     "data": {
         "mode": "master",
         "idol": "i_card-skin-kllj-3-006",
@@ -28,6 +28,6 @@
         ],
         "recommend_card_detection_mode": "normal",
         "use_ap_drink": true,
-        "skip_commu": true
+        "skip_commu": false
     }
 }

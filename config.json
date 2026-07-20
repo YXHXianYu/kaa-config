@@ -24,7 +24,7 @@
             "keep_screenshots": false,
             "options": {
                 "purchase": {
-                    "enabled": false,
+                    "enabled": true,
                     "money_enabled": true,
                     "money_items": [
                         15,
@@ -46,43 +46,43 @@
                     "weekly_enabled": true
                 },
                 "activity_funds": {
-                    "enabled": false
+                    "enabled": true
                 },
                 "presents": {
-                    "enabled": false
+                    "enabled": true
                 },
                 "assignment": {
-                    "enabled": false,
+                    "enabled": true,
                     "mini_live_reassign_enabled": true,
                     "mini_live_duration": 12,
                     "online_live_reassign_enabled": true,
                     "online_live_duration": 12
                 },
                 "contest": {
-                    "enabled": false,
+                    "enabled": true,
                     "select_which_contestant": 3,
                     "when_no_set": "auto_set_silent"
                 },
                 "produce": {
-                    "enabled": true,
-                    "selected_solution_id": "93b861b96f51430b8c29cbb819168eab",
+                    "enabled": false,
+                    "selected_solution_id": "1a2a4d8578064d118ad0e2aefb90d98c",
                     "produce_count": 98,
                     "produce_timeout_cd": 30,
                     "interrupt_timeout": 90,
                     "enable_fever_month": "on"
                 },
                 "mission_reward": {
-                    "enabled": false
+                    "enabled": true
                 },
                 "club_reward": {
-                    "enabled": false,
+                    "enabled": true,
                     "selected_note": 11
                 },
                 "upgrade_support_card": {
-                    "enabled": false
+                    "enabled": true
                 },
                 "capsule_toys": {
-                    "enabled": false,
+                    "enabled": true,
                     "friend_capsule_toys_count": 1,
                     "sense_capsule_toys_count": 1,
                     "logic_capsule_toys_count": 1,
@@ -101,17 +101,17 @@
                     "dmm_bypass": true
                 },
                 "end_game": {
-                    "exit_kaa": false,
-                    "kill_game": false,
-                    "kill_dmm": false,
+                    "exit_kaa": true,
+                    "kill_game": true,
+                    "kill_dmm": true,
                     "kill_emulator": false,
                     "shutdown": false,
                     "hibernate": false,
                     "restore_gakumas_localify": true
                 },
                 "misc": {
-                    "check_update": "startup",
-                    "auto_install_update": true,
+                    "check_update": "never",
+                    "auto_install_update": false,
                     "expose_to_lan": false,
                     "update_channel": "release",
                     "log_level": "debug"

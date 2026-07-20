@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "profiles": {
+    "last_used": "默认配置",
+    "open_tabs": [
+      "默认配置"
+    ]
+  },
+  "misc": {
+    "check_update": "never",
+    "auto_install_update": false,
+    "expose_to_lan": false,
+    "update_channel": "release",
+    "log_level": "debug",
+    "game_data_check": "startup",
+    "game_data_auto_update": true,
+    "game_data_last_checked": "2026-06-20T12:18:14.686692",
+    "last_seen_changelog": "2026.6.2"
+  },
+  "telemetry": {
+    "sentry": true
+  }
+}

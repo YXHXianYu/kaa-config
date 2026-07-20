@@ -1,11 +1,11 @@
 {
     "type": "produce_solution",
-    "id": "1a2a4d8578064d118ad0e2aefb90d98c",
-    "name": "【Campus mode!!】有村麻央（非凡）",
-    "description": "pro",
+    "id": "eac2f993a1204eea975d0a2fbd6eef2c",
+    "name": "【Campus mode!!】秦谷美铃（逻辑）",
+    "description": "master",
     "data": {
-        "mode": "pro",
-        "idol": "i_card-skin-amao-3-007",
+        "mode": "master",
+        "idol": "i_card-skin-hmsz-3-005",
         "memory_set": null,
         "support_card_set": null,
         "auto_set_memory": true,
@@ -13,22 +13,21 @@
         "use_pt_boost": false,
         "use_note_boost": false,
         "follow_producer": true,
-        "self_study_lesson": "visual",
-        "prefer_lesson_ap": true,
-        "battle_strategy": "bandai",
+        "self_study_lesson": "vocal",
+        "prefer_lesson_ap": false,
         "actions_order": [
             "recommended",
-            "visual",
             "vocal",
+            "visual",
             "dance",
-            "allowance",
-            "outing",
             "study",
-            "consult",
-            "rest"
+            "outing",
+            "rest",
+            "allowance",
+            "consult"
         ],
         "recommend_card_detection_mode": "normal",
         "use_ap_drink": true,
-        "skip_commu": false
+        "skip_commu": true
     }
 }

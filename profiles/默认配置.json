@@ -1,0 +1,114 @@
+{
+  "version": 11,
+  "name": "默认配置",
+  "description": "默认配置",
+  "backend": {
+    "lifecycle": {
+      "type": "dmm",
+      "check_and_start": false,
+      "emulator_path": "E:\\Programs\\leidian\\LDPlayerVK\\dnplayer.exe",
+      "emulator_args": "",
+      "cursor_wait_speed": -1.0
+    },
+    "connection": {
+      "type": "tcp",
+      "ip": "127.0.0.1",
+      "port": 5555
+    },
+    "screenshot_impl": "windows_native",
+    "target_screenshot_interval": 0.5
+  },
+  "keep_screenshots": false,
+  "tasks": {
+    "purchase": {
+      "enabled": false,
+      "money_enabled": true,
+      "money_items": [
+        15,
+        16,
+        18,
+        20,
+        22,
+        17,
+        19
+      ],
+      "money_refresh": true,
+      "ap_enabled": true,
+      "ap_items": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "weekly_enabled": true
+    },
+    "activity_funds": {
+      "enabled": false
+    },
+    "presents": {
+      "enabled": false
+    },
+    "assignment": {
+      "enabled": false,
+      "mini_live_reassign_enabled": true,
+      "mini_live_duration": 12,
+      "online_live_reassign_enabled": true,
+      "online_live_duration": 12
+    },
+    "contest": {
+      "enabled": false,
+      "select_which_contestant": 3,
+      "when_no_set": "auto_set_silent"
+    },
+    "produce": {
+      "enabled": true,
+      "selected_solution_id": "1a2a4d8578064d118ad0e2aefb90d98c",
+      "produce_count": 98,
+      "produce_timeout_cd": 30,
+      "interrupt_timeout": 90,
+      "enable_fever_month": "on",
+      "produce_engine": "legacy"
+    },
+    "mission_reward": {
+      "enabled": false
+    },
+    "club_reward": {
+      "enabled": false,
+      "selected_note": 11
+    },
+    "upgrade_support_card": {
+      "enabled": false
+    },
+    "capsule_toys": {
+      "enabled": false,
+      "friend_capsule_toys_count": 1,
+      "sense_capsule_toys_count": 1,
+      "logic_capsule_toys_count": 1,
+      "anomaly_capsule_toys_count": 1
+    },
+    "start_game": {
+      "enabled": true,
+      "start_through_kuyo": false,
+      "disable_gakumas_localify": true,
+      "dmm_game_path": "D:\\Games\\DMMGames\\gakumas\\gakumas.exe",
+      "dmm_bypass": true
+    },
+    "end_game": {
+      "exit_kaa": false,
+      "kill_game": false,
+      "kill_dmm": false,
+      "kill_emulator": false,
+      "shutdown": false,
+      "hibernate": false,
+      "restore_gakumas_localify": true
+    }
+  },
+  "trace": {
+    "recommend_card_detection": true
+  },
+  "idle": {
+    "enabled": false,
+    "idle_seconds": 30,
+    "minimize_on_pause": true
+  }
+}
